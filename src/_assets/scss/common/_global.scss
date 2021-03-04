@@ -62,7 +62,7 @@ body {
 }
 
 .col-sidebar {
-  background-color: $sidebar-bg;
+  background-color: $navbar-bg;
 
   @include make-col-ready();
 
